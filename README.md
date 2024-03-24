@@ -14,10 +14,7 @@
   </a>
 </p>
 <p align="center">
-  <a href= "https://github.com/WANG-GXI/my-photo/blob/main/mmexport1613658365212.jpg" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
-  &emsp;
+  
   <a href="https://blog.csdn.net/m0_45961876?type=blog" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
