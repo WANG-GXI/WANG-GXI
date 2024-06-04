@@ -15,10 +15,7 @@
 </p>
 <p align="center">
   
-  <a href="https://blog.csdn.net/m0_45961876?type=blog" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
+  
   <a href="https://www.zhihu.com/people/ting-feng-shuo-19" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
