@@ -4,7 +4,7 @@
 
 ## Hi, 👋  I'm WANG-YD (China)
 
-✨ 普通电子爱好者，项目所有代码基本开源，精通SMT32、MSP423、ESP32，会用Chat-gpt解决简单实用Python问题
+✨ A Student.
 
 <br>
 
